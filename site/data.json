@@ -14498,6 +14498,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17453237598",
       "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 11,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17470045380",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 12,
+      "name": "Valencia duatl\u00f3n familiar",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17471049440",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17471559802",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27022,6 +27049,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2358.0
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "17470045380",
+            "17471559802"
+          ],
+          "count": 2,
+          "distance": 3638.0,
+          "elevation_gain": 46.0,
+          "moving_time": 973.0
         }
       },
       "Run": {
@@ -27245,6 +27282,15 @@
           "distance": 7056.5,
           "elevation_gain": 0.0,
           "moving_time": 2281.0
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "17471049440"
+          ],
+          "count": 1,
+          "distance": 1816.0,
+          "elevation_gain": 4.0,
+          "moving_time": 387.0
         }
       },
       "TrailRun": {
@@ -27369,7 +27415,7 @@
       }
     }
   },
-  "generated_at": "2026-02-20T15:31:56.682903+00:00",
+  "generated_at": "2026-02-21T15:17:44.286672+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

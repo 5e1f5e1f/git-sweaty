@@ -20941,5 +20941,44 @@
     "start_date_local": "2026-02-19T19:05:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 2256.0,
+    "elevation_gain": 25.0,
+    "id": "17470045380",
+    "moving_time": 613.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-21T11:14:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 1816.0,
+    "elevation_gain": 4.0,
+    "id": "17471049440",
+    "moving_time": 387.0,
+    "name": "Valencia duatl\u00f3n familiar",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-21T12:39:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 1382.0,
+    "elevation_gain": 21.0,
+    "id": "17471559802",
+    "moving_time": 360.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-21T13:36:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
