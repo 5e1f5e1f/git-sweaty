@@ -20980,5 +20980,31 @@
     "start_date_local": "2026-02-21T13:36:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 8024.0,
+    "elevation_gain": 6.0,
+    "id": "17476793111",
+    "moving_time": 2463.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-21T21:38:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 18060.0,
+    "elevation_gain": 844.0,
+    "id": "17483136524",
+    "moving_time": 9837.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-02-22T10:53:19Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
