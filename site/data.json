@@ -14543,6 +14543,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/17483136524",
       "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 19,
+      "name": "Series \ud83d\udcfa",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17497410384",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27310,6 +27319,15 @@
           "distance": 9840.0,
           "elevation_gain": 10.0,
           "moving_time": 2850.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17497410384"
+          ],
+          "count": 1,
+          "distance": 11510.0,
+          "elevation_gain": 10.0,
+          "moving_time": 3230.0
         }
       },
       "TrailRun": {
@@ -27443,7 +27461,7 @@
       }
     }
   },
-  "generated_at": "2026-02-23T15:39:39.180012+00:00",
+  "generated_at": "2026-02-24T15:50:22.787713+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
