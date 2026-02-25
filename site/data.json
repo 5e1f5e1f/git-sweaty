@@ -14552,6 +14552,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17497410384",
       "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 19,
+      "name": "El\u00edptica",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/17509646659",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 21,
+      "name": "Cinta post",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17511141284",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27065,6 +27083,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 787.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17509646659"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1500.0
         }
       },
       "Ride": {
@@ -27328,6 +27355,15 @@
           "distance": 11510.0,
           "elevation_gain": 10.0,
           "moving_time": 3230.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17511141284"
+          ],
+          "count": 1,
+          "distance": 4576.9,
+          "elevation_gain": 0.0,
+          "moving_time": 1484.0
         }
       },
       "TrailRun": {
@@ -27461,7 +27497,7 @@
       }
     }
   },
-  "generated_at": "2026-02-24T15:50:22.787713+00:00",
+  "generated_at": "2026-02-25T15:54:41.220066+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

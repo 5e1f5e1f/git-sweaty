@@ -21019,5 +21019,31 @@
     "start_date_local": "2026-02-23T19:04:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17509646659",
+    "moving_time": 1500.0,
+    "name": "El\u00edptica",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-02-24T19:10:00Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 4576.9,
+    "elevation_gain": 0.0,
+    "id": "17511141284",
+    "moving_time": 1484.0,
+    "name": "Cinta post",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-24T21:45:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
