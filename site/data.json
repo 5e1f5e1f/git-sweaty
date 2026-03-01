@@ -14606,6 +14606,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17550600414",
       "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 8,
+      "name": "Morning Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17563035829",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 9,
+      "name": "Trail Marines Vell 2026",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17563038717",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27565,11 +27583,21 @@
           "distance": 15505.8,
           "elevation_gain": 630.0,
           "moving_time": 6541.0
+        },
+        "2026-03-01": {
+          "activity_ids": [
+            "17563035829",
+            "17563038717"
+          ],
+          "count": 2,
+          "distance": 22250.6,
+          "elevation_gain": 1216.0,
+          "moving_time": 9322.0
         }
       }
     }
   },
-  "generated_at": "2026-02-28T15:15:07.421238+00:00",
+  "generated_at": "2026-03-01T15:16:33.012491+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

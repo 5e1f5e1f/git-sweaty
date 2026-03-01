@@ -21097,5 +21097,31 @@
     "start_date_local": "2026-02-28T11:20:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 1594.0,
+    "elevation_gain": 56.0,
+    "id": "17563035829",
+    "moving_time": 583.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-01T08:37:20Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 20656.6,
+    "elevation_gain": 1160.0,
+    "id": "17563038717",
+    "moving_time": 8739.0,
+    "name": "Trail Marines Vell 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-03-01T09:00:16Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
