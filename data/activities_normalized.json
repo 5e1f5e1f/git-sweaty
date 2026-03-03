@@ -21123,5 +21123,18 @@
     "start_date_local": "2026-03-01T09:00:16Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17578465957",
+    "moving_time": 1814.0,
+    "name": "Evening Elliptical",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-03-02T18:21:00Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
