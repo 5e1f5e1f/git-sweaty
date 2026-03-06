@@ -21162,5 +21162,18 @@
     "start_date_local": "2026-03-04T17:36:41Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-05",
+    "distance": 4070.6,
+    "elevation_gain": 0.0,
+    "id": "17616367670",
+    "moving_time": 1359.0,
+    "name": "Cinta pre-fuerza",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-05T19:10:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
