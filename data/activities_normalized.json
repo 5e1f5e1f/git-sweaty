@@ -21175,5 +21175,18 @@
     "start_date_local": "2026-03-05T19:10:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 12527.8,
+    "elevation_gain": 23.0,
+    "id": "17632871970",
+    "moving_time": 3669.0,
+    "name": "Connect run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-07T08:26:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
