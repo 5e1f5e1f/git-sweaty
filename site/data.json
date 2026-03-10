@@ -14678,6 +14678,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/17647319192",
       "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 19,
+      "name": "Evening Elliptical",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/17663574958",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27209,6 +27218,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1814.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17663574958"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1811.0
         }
       },
       "Ride": {
@@ -27705,7 +27723,7 @@
       }
     }
   },
-  "generated_at": "2026-03-09T15:51:38.081496+00:00",
+  "generated_at": "2026-03-10T15:54:06.495630+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
