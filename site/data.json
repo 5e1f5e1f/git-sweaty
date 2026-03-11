@@ -14687,6 +14687,33 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/17663574958",
       "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 19,
+      "name": "Cinta pre-fuerza",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17675859519",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 20,
+      "name": "Cinta pre-series \ud83d\ude01",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17677646771",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-10",
+      "hour": 20,
+      "name": "Cinta series",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17677659556",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27553,6 +27580,17 @@
           "distance": 12527.8,
           "elevation_gain": 23.0,
           "moving_time": 3669.0
+        },
+        "2026-03-10": {
+          "activity_ids": [
+            "17675859519",
+            "17677646771",
+            "17677659556"
+          ],
+          "count": 3,
+          "distance": 12174.099999999999,
+          "elevation_gain": 0.0,
+          "moving_time": 3637.0
         }
       },
       "TrailRun": {
@@ -27723,7 +27761,7 @@
       }
     }
   },
-  "generated_at": "2026-03-10T15:54:06.495630+00:00",
+  "generated_at": "2026-03-11T15:41:07.317221+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

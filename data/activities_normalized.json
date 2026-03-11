@@ -21214,5 +21214,44 @@
     "start_date_local": "2026-03-09T19:40:20Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 2058.8,
+    "elevation_gain": 0.0,
+    "id": "17675859519",
+    "moving_time": 702.0,
+    "name": "Cinta pre-fuerza",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-10T19:13:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 1730.0,
+    "elevation_gain": 0.0,
+    "id": "17677646771",
+    "moving_time": 568.0,
+    "name": "Cinta pre-series \ud83d\ude01",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-10T20:50:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 8385.3,
+    "elevation_gain": 0.0,
+    "id": "17677659556",
+    "moving_time": 2367.0,
+    "name": "Cinta series",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-10T20:56:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
