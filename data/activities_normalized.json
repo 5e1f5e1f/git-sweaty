@@ -21409,5 +21409,31 @@
     "start_date_local": "2026-03-25T17:40:15Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17868455922",
+    "moving_time": 1239.0,
+    "name": "El\u00edptica pre-fuerza",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-03-26T19:10:10Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 6031.9,
+    "elevation_gain": 9.0,
+    "id": "17874141565",
+    "moving_time": 1869.0,
+    "name": "Media horita z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-27T09:02:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
