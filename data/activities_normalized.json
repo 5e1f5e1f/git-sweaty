@@ -21461,5 +21461,18 @@
     "start_date_local": "2026-03-28T12:02:46Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 13013.9,
+    "elevation_gain": 22.0,
+    "id": "17914965840",
+    "moving_time": 3543.0,
+    "name": "Series \ud83d\ude35",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-30T18:26:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
