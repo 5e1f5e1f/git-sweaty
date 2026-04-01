@@ -14867,6 +14867,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17914965840",
       "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 20,
+      "name": "Cinta post-fuerza",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17929564486",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27825,6 +27834,15 @@
           "distance": 13013.9,
           "elevation_gain": 22.0,
           "moving_time": 3543.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17929564486"
+          ],
+          "count": 1,
+          "distance": 8038.3,
+          "elevation_gain": 0.0,
+          "moving_time": 2553.0
         }
       },
       "TrailRun": {
@@ -28059,7 +28077,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T16:00:59.056451+00:00",
+  "generated_at": "2026-04-01T16:03:11.364365+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

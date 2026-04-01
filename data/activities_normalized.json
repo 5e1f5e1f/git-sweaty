@@ -21474,5 +21474,18 @@
     "start_date_local": "2026-03-30T18:26:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 8038.3,
+    "elevation_gain": 0.0,
+    "id": "17929564486",
+    "moving_time": 2553.0,
+    "name": "Cinta post-fuerza",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T20:57:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
