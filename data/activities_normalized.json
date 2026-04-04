@@ -21500,5 +21500,18 @@
     "start_date_local": "2026-04-01T18:01:59Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 17023.4,
+    "elevation_gain": 1042.0,
+    "id": "17972537834",
+    "moving_time": 11426.0,
+    "name": "Primer entrene del a\u00f1o en zona de VTF \ud83d\ude36",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-04T08:41:58Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

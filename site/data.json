@@ -14885,6 +14885,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/17941427955",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 8,
+      "name": "Primer entrene del a\u00f1o en zona de VTF \ud83d\ude36",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17972537834",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28091,11 +28100,20 @@
           "distance": 16013.5,
           "elevation_gain": 641.0,
           "moving_time": 6551.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17972537834"
+          ],
+          "count": 1,
+          "distance": 17023.4,
+          "elevation_gain": 1042.0,
+          "moving_time": 11426.0
         }
       }
     }
   },
-  "generated_at": "2026-04-03T15:34:07.963170+00:00",
+  "generated_at": "2026-04-04T15:23:53.830638+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
