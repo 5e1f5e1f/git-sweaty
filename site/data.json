@@ -14930,6 +14930,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18046033601",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 8,
+      "name": "Connect run y un poco m\u00e1s",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18062497195",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27915,6 +27924,15 @@
           "distance": 8102.0,
           "elevation_gain": 3.0,
           "moving_time": 2522.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18062497195"
+          ],
+          "count": 1,
+          "distance": 13506.2,
+          "elevation_gain": 24.0,
+          "moving_time": 4168.0
         }
       },
       "TrailRun": {
@@ -28185,7 +28203,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:42:50.479665+00:00",
+  "generated_at": "2026-04-11T15:26:05.179880+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
