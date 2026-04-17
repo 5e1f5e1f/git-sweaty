@@ -21617,5 +21617,18 @@
     "start_date_local": "2026-04-15T18:08:54Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 10404.0,
+    "elevation_gain": 374.0,
+    "id": "18135454961",
+    "moving_time": 3646.0,
+    "name": "NNormal & Atm\u00f3sfera Sport - Cad\u00ed Shoe Test",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-16T18:56:25Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
