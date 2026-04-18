@@ -14975,6 +14975,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18135454961",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 8,
+      "name": "1a parte de VTF",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18156367872",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28271,11 +28280,20 @@
           "distance": 10404.0,
           "elevation_gain": 374.0,
           "moving_time": 3646.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18156367872"
+          ],
+          "count": 1,
+          "distance": 23614.6,
+          "elevation_gain": 1450.0,
+          "moving_time": 12844.0
         }
       }
     }
   },
-  "generated_at": "2026-04-17T15:52:32.911949+00:00",
+  "generated_at": "2026-04-18T15:31:27.100307+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

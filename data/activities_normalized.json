@@ -21630,5 +21630,18 @@
     "start_date_local": "2026-04-16T18:56:25Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 23614.6,
+    "elevation_gain": 1450.0,
+    "id": "18156367872",
+    "moving_time": 12844.0,
+    "name": "1a parte de VTF",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-18T08:11:47Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
