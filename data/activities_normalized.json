@@ -21643,5 +21643,18 @@
     "start_date_local": "2026-04-18T08:11:47Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 15016.3,
+    "elevation_gain": 689.0,
+    "id": "18170077096",
+    "moving_time": 9184.0,
+    "name": "Regenerativo con el team",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-19T08:24:08Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
