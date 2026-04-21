@@ -14993,6 +14993,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18170077096",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 20,
+      "name": "8x2min",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18188641898",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27996,6 +28005,15 @@
           "distance": 10204.6,
           "elevation_gain": 8.0,
           "moving_time": 2887.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18188641898"
+          ],
+          "count": 1,
+          "distance": 11020.0,
+          "elevation_gain": 9.0,
+          "moving_time": 3115.0
         }
       },
       "TrailRun": {
@@ -28311,7 +28329,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T16:02:54.677647+00:00",
+  "generated_at": "2026-04-21T16:05:51.442256+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
