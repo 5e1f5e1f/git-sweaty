@@ -15011,6 +15011,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18203316676",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 18,
+      "name": "Estrenando botas del agua",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18215809150",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18228792132",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28032,6 +28050,15 @@
           "distance": 4078.5,
           "elevation_gain": 0.0,
           "moving_time": 1420.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18228792132"
+          ],
+          "count": 1,
+          "distance": 9047.5,
+          "elevation_gain": 19.0,
+          "moving_time": 2713.0
         }
       },
       "TrailRun": {
@@ -28343,11 +28370,20 @@
           "distance": 15016.3,
           "elevation_gain": 689.0,
           "moving_time": 9184.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18215809150"
+          ],
+          "count": 1,
+          "distance": 16035.8,
+          "elevation_gain": 746.0,
+          "moving_time": 6712.0
         }
       }
     }
   },
-  "generated_at": "2026-04-22T16:04:01.095376+00:00",
+  "generated_at": "2026-04-24T15:59:51.329020+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

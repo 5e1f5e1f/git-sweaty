@@ -21682,5 +21682,31 @@
     "start_date_local": "2026-04-21T19:37:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 16035.8,
+    "elevation_gain": 746.0,
+    "id": "18215809150",
+    "moving_time": 6712.0,
+    "name": "Estrenando botas del agua",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-22T18:13:42Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 9047.5,
+    "elevation_gain": 19.0,
+    "id": "18228792132",
+    "moving_time": 2713.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T18:46:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
