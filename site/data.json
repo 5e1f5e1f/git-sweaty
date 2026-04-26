@@ -15038,6 +15038,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18249484223",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 18,
+      "name": "7\u00aa Volta a Peu per la Discapacitat \u201cCiutat de Val\u00e8ncia\u201d",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18255034509",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28068,6 +28077,15 @@
           "distance": 9047.5,
           "elevation_gain": 19.0,
           "moving_time": 2713.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18255034509"
+          ],
+          "count": 1,
+          "distance": 5044.7,
+          "elevation_gain": 7.0,
+          "moving_time": 1647.0
         }
       },
       "TrailRun": {
@@ -28401,7 +28419,7 @@
       }
     }
   },
-  "generated_at": "2026-04-25T15:33:49.304815+00:00",
+  "generated_at": "2026-04-26T15:36:07.061802+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

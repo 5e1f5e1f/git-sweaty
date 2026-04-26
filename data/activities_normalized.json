@@ -21721,5 +21721,18 @@
     "start_date_local": "2026-04-25T08:05:59Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 5044.7,
+    "elevation_gain": 7.0,
+    "id": "18255034509",
+    "moving_time": 1647.0,
+    "name": "7\u00aa Volta a Peu per la Discapacitat \u201cCiutat de Val\u00e8ncia\u201d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-25T18:05:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
