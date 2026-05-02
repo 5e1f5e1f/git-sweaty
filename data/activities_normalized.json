@@ -21747,5 +21747,18 @@
     "start_date_local": "2026-04-30T08:57:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 21156.5,
+    "elevation_gain": 30.0,
+    "id": "18342743316",
+    "moving_time": 6025.0,
+    "name": "Salvando la semana de relax + Connect Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T07:54:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
