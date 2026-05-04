@@ -21760,5 +21760,44 @@
     "start_date_local": "2026-05-02T07:54:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 6095.0,
+    "elevation_gain": 3.0,
+    "id": "18363342739",
+    "moving_time": 1812.0,
+    "name": "30min suave",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T19:07:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 1451.6,
+    "elevation_gain": 0.0,
+    "id": "18372709568",
+    "moving_time": 573.0,
+    "name": "Segunda prueba de esfuerzo \ud83d\udcc8",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-04T16:31:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 6161.0,
+    "elevation_gain": 15.0,
+    "id": "18373902199",
+    "moving_time": 2004.0,
+    "name": "Post PE",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-04T17:20:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
