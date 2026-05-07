@@ -21812,5 +21812,18 @@
     "start_date_local": "2026-05-05T21:18:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 18508.0,
+    "elevation_gain": 810.0,
+    "id": "18402912377",
+    "moving_time": 7408.0,
+    "name": "Un poco de Fastick \ud83d\ude01",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-06T18:00:29Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
