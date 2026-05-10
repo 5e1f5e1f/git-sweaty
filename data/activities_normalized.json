@@ -21851,5 +21851,18 @@
     "start_date_local": "2026-05-09T08:02:36Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 5039.6,
+    "elevation_gain": 7.0,
+    "id": "18447594951",
+    "moving_time": 1651.0,
+    "name": "11\u00aa Carrera Jos\u00e9 Antonio Redolat",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T09:05:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
