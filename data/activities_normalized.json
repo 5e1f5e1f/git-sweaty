@@ -21916,5 +21916,18 @@
     "start_date_local": "2026-05-14T18:30:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 27029.8,
+    "elevation_gain": 1596.0,
+    "id": "18527843050",
+    "moving_time": 13603.0,
+    "name": "Algo de monte \ud83d\ude36",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-16T08:02:43Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
