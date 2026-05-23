@@ -21994,5 +21994,31 @@
     "start_date_local": "2026-05-20T18:24:40Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 6024.0,
+    "elevation_gain": 12.0,
+    "id": "18612477674",
+    "moving_time": 1844.0,
+    "name": "30min. z\ud83c\udf1e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T18:08:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 24014.0,
+    "elevation_gain": 1154.0,
+    "id": "18619836715",
+    "moving_time": 13972.0,
+    "name": "Prrrrotocolo t\u00e9rmico",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-23T09:15:05Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
