@@ -22020,5 +22020,31 @@
     "start_date_local": "2026-05-23T09:15:05Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 2016.0,
+    "elevation_gain": 5.0,
+    "id": "18629943306",
+    "moving_time": 592.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T08:34:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 5034.2,
+    "elevation_gain": 11.0,
+    "id": "18630378198",
+    "moving_time": 1622.0,
+    "name": "VIII Carrera Marta Fern\u00e1ndez de Castro",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-24T09:06:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
