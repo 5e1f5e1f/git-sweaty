@@ -22098,5 +22098,18 @@
     "start_date_local": "2026-05-29T09:29:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 34218.0,
+    "elevation_gain": 2301.0,
+    "id": "18712801784",
+    "moving_time": 19557.0,
+    "name": "Volta al Terme de  Fondeguilla 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-30T05:59:33Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
