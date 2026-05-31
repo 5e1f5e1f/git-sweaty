@@ -22111,5 +22111,18 @@
     "start_date_local": "2026-05-30T05:59:33Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 13726.0,
+    "elevation_gain": 44.0,
+    "id": "18730815455",
+    "moving_time": 2487.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T16:07:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
