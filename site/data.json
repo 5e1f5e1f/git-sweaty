@@ -15335,6 +15335,33 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18773759143",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18788280821",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 8,
+      "name": "Test Adidas Terrex Agravic TT y Santa Madre",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18806652920",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 11,
+      "name": "Una hora del prrrrotocolo \ud83c\udf1e",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18807811019",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27941,6 +27968,15 @@
           "distance": 13726.0,
           "elevation_gain": 44.0,
           "moving_time": 2487.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18788280821"
+          ],
+          "count": 1,
+          "distance": 33577.3,
+          "elevation_gain": 271.0,
+          "moving_time": 5994.0
         }
       },
       "Run": {
@@ -28967,11 +29003,21 @@
           "distance": 14515.0,
           "elevation_gain": 653.0,
           "moving_time": 6337.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18806652920",
+            "18807811019"
+          ],
+          "count": 2,
+          "distance": 16531.0,
+          "elevation_gain": 756.0,
+          "moving_time": 7065.0
         }
       }
     }
   },
-  "generated_at": "2026-06-04T17:39:31.177889+00:00",
+  "generated_at": "2026-06-06T16:02:10.836546+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

@@ -22150,5 +22150,44 @@
     "start_date_local": "2026-06-03T18:06:57Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 33577.3,
+    "elevation_gain": 271.0,
+    "id": "18788280821",
+    "moving_time": 5994.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T18:57:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 9511.0,
+    "elevation_gain": 464.0,
+    "id": "18806652920",
+    "moving_time": 3843.0,
+    "name": "Test Adidas Terrex Agravic TT y Santa Madre",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-06T08:59:35Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 7020.0,
+    "elevation_gain": 292.0,
+    "id": "18807811019",
+    "moving_time": 3222.0,
+    "name": "Una hora del prrrrotocolo \ud83c\udf1e",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-06T11:38:13Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
