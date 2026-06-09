@@ -22189,5 +22189,18 @@
     "start_date_local": "2026-06-06T11:38:13Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 20135.9,
+    "elevation_gain": 27.0,
+    "id": "18841886438",
+    "moving_time": 3797.0,
+    "name": "Bicicleta nocturna",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-08T21:03:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
