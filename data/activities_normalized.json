@@ -22254,5 +22254,18 @@
     "start_date_local": "2026-06-12T10:08:55Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 5342.6,
+    "elevation_gain": 16.0,
+    "id": "18899961733",
+    "moving_time": 1793.0,
+    "name": "Connect run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-13T09:04:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
