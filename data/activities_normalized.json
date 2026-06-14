@@ -22267,5 +22267,18 @@
     "start_date_local": "2026-06-13T09:04:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 5030.0,
+    "elevation_gain": 4.0,
+    "id": "18912502586",
+    "moving_time": 1605.0,
+    "name": "VII Volta a Peu Runners Ciutat de Val\u00e8ncia",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T08:34:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
