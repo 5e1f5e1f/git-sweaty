@@ -22306,5 +22306,31 @@
     "start_date_local": "2026-06-16T21:32:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 15013.4,
+    "elevation_gain": 853.0,
+    "id": "18961978786",
+    "moving_time": 7222.0,
+    "name": "Evening Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-17T18:27:07Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 36529.7,
+    "elevation_gain": 236.0,
+    "id": "18975743999",
+    "moving_time": 6110.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T18:48:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -15443,6 +15443,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18949275418",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 18,
+      "name": "Evening Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18961978786",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18975743999",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28076,6 +28094,15 @@
           "distance": 47495.0,
           "elevation_gain": 664.0,
           "moving_time": 8682.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18975743999"
+          ],
+          "count": 1,
+          "distance": 36529.7,
+          "elevation_gain": 236.0,
+          "moving_time": 6110.0
         }
       },
       "Run": {
@@ -29175,11 +29202,20 @@
           "distance": 21122.0,
           "elevation_gain": 987.0,
           "moving_time": 10022.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18961978786"
+          ],
+          "count": 1,
+          "distance": 15013.4,
+          "elevation_gain": 853.0,
+          "moving_time": 7222.0
         }
       }
     }
   },
-  "generated_at": "2026-06-17T17:46:18.369477+00:00",
+  "generated_at": "2026-06-19T17:12:02.770826+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
