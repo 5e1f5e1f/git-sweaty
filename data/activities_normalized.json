@@ -22345,5 +22345,18 @@
     "start_date_local": "2026-06-20T07:34:47Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 12024.0,
+    "elevation_gain": 617.0,
+    "id": "19006082017",
+    "moving_time": 7200.0,
+    "name": "Regenerativo con VTM team",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-21T07:12:14Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
