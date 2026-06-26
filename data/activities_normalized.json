@@ -22397,5 +22397,31 @@
     "start_date_local": "2026-06-24T07:16:08Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 26100.0,
+    "elevation_gain": 68.0,
+    "id": "19065949575",
+    "moving_time": 4509.0,
+    "name": "Activaci\u00f3n pre-Riba-Roja nocturna \ud83d\ude01",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T18:51:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 4023.1,
+    "elevation_gain": 5.0,
+    "id": "19066462463",
+    "moving_time": 1490.0,
+    "name": "Doble sesi\u00f3n con Vera",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T22:28:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

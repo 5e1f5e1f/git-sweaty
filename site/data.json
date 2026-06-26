@@ -15506,6 +15506,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19046199024",
       "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 18,
+      "name": "Activaci\u00f3n pre-Riba-Roja nocturna \ud83d\ude01",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19065949575",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 22,
+      "name": "Doble sesi\u00f3n con Vera",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19066462463",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28148,6 +28166,15 @@
           "distance": 36529.7,
           "elevation_gain": 236.0,
           "moving_time": 6110.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19065949575"
+          ],
+          "count": 1,
+          "distance": 26100.0,
+          "elevation_gain": 68.0,
+          "moving_time": 4509.0
         }
       },
       "Run": {
@@ -28835,6 +28862,15 @@
           "distance": 10103.0,
           "elevation_gain": 18.0,
           "moving_time": 3300.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19066462463"
+          ],
+          "count": 1,
+          "distance": 4023.1,
+          "elevation_gain": 5.0,
+          "moving_time": 1490.0
         }
       },
       "TrailRun": {
@@ -29305,7 +29341,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T17:04:54.185888+00:00",
+  "generated_at": "2026-06-26T16:56:13.546355+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
