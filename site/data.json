@@ -15524,6 +15524,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19066462463",
       "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 21,
+      "name": "Calentamiento",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19077117628",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 21,
+      "name": "III TRAIL NOCTURNO RIBA-ROJA",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19077864367",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 7,
+      "name": "Regeneraci\u00f3n post-carrera \ud83d\ude43",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19083100436",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28871,6 +28898,15 @@
           "distance": 4023.1,
           "elevation_gain": 5.0,
           "moving_time": 1490.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19077117628"
+          ],
+          "count": 1,
+          "distance": 1059.0,
+          "elevation_gain": 16.0,
+          "moving_time": 369.0
         }
       },
       "TrailRun": {
@@ -29337,11 +29373,29 @@
           "distance": 21107.0,
           "elevation_gain": 1121.0,
           "moving_time": 9598.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19077864367"
+          ],
+          "count": 1,
+          "distance": 8800.7,
+          "elevation_gain": 421.0,
+          "moving_time": 3586.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19083100436"
+          ],
+          "count": 1,
+          "distance": 16056.0,
+          "elevation_gain": 1515.0,
+          "moving_time": 13547.0
         }
       }
     }
   },
-  "generated_at": "2026-06-26T16:56:13.546355+00:00",
+  "generated_at": "2026-06-27T15:59:55.192543+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
