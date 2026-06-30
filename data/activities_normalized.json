@@ -22469,10 +22469,23 @@
     "elevation_gain": 14.0,
     "id": "19113121312",
     "moving_time": 1424.0,
-    "name": "Evening Run",
+    "name": "Calentamiento",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-29T18:46:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 6506.0,
+    "elevation_gain": 6.0,
+    "id": "19113631024",
+    "moving_time": 1870.0,
+    "name": "Series",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-29T19:32:11Z",
     "type": "Run",
     "year": 2026
   }
