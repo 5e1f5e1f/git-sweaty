@@ -22488,5 +22488,18 @@
     "start_date_local": "2026-06-29T19:32:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 13513.0,
+    "elevation_gain": 606.0,
+    "id": "19141063194",
+    "moving_time": 5998.0,
+    "name": "Evening Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-01T18:39:34Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
