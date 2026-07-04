@@ -22514,5 +22514,18 @@
     "start_date_local": "2026-07-02T19:02:37Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 23762.4,
+    "elevation_gain": 1714.0,
+    "id": "19174187511",
+    "moving_time": 14381.0,
+    "name": "\"1500\" con VTM performance team \ud83e\udd75",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-04T07:06:31Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
