@@ -22540,5 +22540,18 @@
     "start_date_local": "2026-07-05T08:17:53Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 11019.0,
+    "elevation_gain": 16.0,
+    "id": "19219816577",
+    "moving_time": 3061.0,
+    "name": "Pir\u00e1mide",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T21:15:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
