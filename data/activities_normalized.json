@@ -22579,5 +22579,18 @@
     "start_date_local": "2026-07-09T19:02:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 22106.0,
+    "elevation_gain": 1192.0,
+    "id": "19265602815",
+    "moving_time": 10493.0,
+    "name": "\u00daltima larga antes de Vuelta al Aneto \ud83d\ude36",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-11T07:39:52Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
