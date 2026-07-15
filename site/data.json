@@ -15641,6 +15641,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19265602815",
       "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 19,
+      "name": "Estamos ready? \ud83d\ude0f",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19313908581",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29025,6 +29034,15 @@
           "distance": 11019.0,
           "elevation_gain": 16.0,
           "moving_time": 3061.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19313908581"
+          ],
+          "count": 1,
+          "distance": 10014.1,
+          "elevation_gain": 12.0,
+          "moving_time": 3347.0
         }
       },
       "TrailRun": {
@@ -29567,7 +29585,7 @@
       }
     }
   },
-  "generated_at": "2026-07-14T16:08:42.250772+00:00",
+  "generated_at": "2026-07-15T16:14:07.893398+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

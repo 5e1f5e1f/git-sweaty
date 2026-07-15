@@ -22592,5 +22592,18 @@
     "start_date_local": "2026-07-11T07:39:52Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 10014.1,
+    "elevation_gain": 12.0,
+    "id": "19313908581",
+    "moving_time": 3347.0,
+    "name": "Estamos ready? \ud83d\ude0f",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-14T19:51:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
