@@ -22605,5 +22605,31 @@
     "start_date_local": "2026-07-14T19:51:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 8517.3,
+    "elevation_gain": 399.0,
+    "id": "19327234649",
+    "moving_time": 3951.0,
+    "name": "Aclimatizaci\u00f3n",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-15T19:17:14Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 10757.0,
+    "elevation_gain": 1189.0,
+    "id": "19337558545",
+    "moving_time": 9351.0,
+    "name": "Ruta antigua de Kil\u00f3metro Vertical de GTAP",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-16T11:59:39Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
