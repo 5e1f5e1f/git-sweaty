@@ -22631,5 +22631,18 @@
     "start_date_local": "2026-07-16T11:59:39Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 7008.0,
+    "elevation_gain": 135.0,
+    "id": "19347188783",
+    "moving_time": 2450.0,
+    "name": "Activaci\u00f3n pre-Vuelta al Aneto",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-17T10:29:37Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
