@@ -22670,5 +22670,18 @@
     "start_date_local": "2026-07-21T19:24:31Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 10505.3,
+    "elevation_gain": 380.0,
+    "id": "19422676906",
+    "moving_time": 6515.0,
+    "name": "Mucho Ca y poco Co",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-22T19:35:40Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
