@@ -15704,6 +15704,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19422676906",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 21,
+      "name": "Z1 suave con Vera",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19437437734",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 8,
+      "name": "Connect run y un poco m\u00e1s",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19455126289",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29106,6 +29124,24 @@
           "distance": 10014.1,
           "elevation_gain": 12.0,
           "moving_time": 3347.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19437437734"
+          ],
+          "count": 1,
+          "distance": 6017.0,
+          "elevation_gain": 8.0,
+          "moving_time": 2561.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19455126289"
+          ],
+          "count": 1,
+          "distance": 10061.0,
+          "elevation_gain": 18.0,
+          "moving_time": 3179.0
         }
       },
       "TrailRun": {
@@ -29693,7 +29729,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T16:21:03.299626+00:00",
+  "generated_at": "2026-07-25T15:58:05.754731+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
