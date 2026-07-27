@@ -22709,5 +22709,18 @@
     "start_date_local": "2026-07-25T08:31:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 6020.0,
+    "elevation_gain": 7.0,
+    "id": "19478157030",
+    "moving_time": 2403.0,
+    "name": "z1 con Vera",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T21:23:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
