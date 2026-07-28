@@ -22722,5 +22722,18 @@
     "start_date_local": "2026-07-26T21:23:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 11036.0,
+    "elevation_gain": 5.0,
+    "id": "19490431886",
+    "moving_time": 3503.0,
+    "name": "11k z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-27T20:33:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
