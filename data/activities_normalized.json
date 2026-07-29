@@ -22735,5 +22735,18 @@
     "start_date_local": "2026-07-27T20:33:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 10048.0,
+    "elevation_gain": 22.0,
+    "id": "19512759312",
+    "moving_time": 3085.0,
+    "name": "Con frescor de 37\u00b0",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-29T11:18:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
