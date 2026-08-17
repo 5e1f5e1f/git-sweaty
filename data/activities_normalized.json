@@ -22878,5 +22878,18 @@
     "start_date_local": "2026-08-14T07:56:21Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 6110.0,
+    "elevation_gain": 275.0,
+    "id": "19771763068",
+    "moving_time": 2534.0,
+    "name": "Por fin algo de frescor \ud83d\ude0a",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-16T21:13:10Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
