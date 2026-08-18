@@ -22891,5 +22891,18 @@
     "start_date_local": "2026-08-16T21:13:10Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 14253.2,
+    "elevation_gain": 550.0,
+    "id": "19783846966",
+    "moving_time": 5750.0,
+    "name": "Aclimataci\u00f3n \ud83d\ude09",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-17T17:56:15Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

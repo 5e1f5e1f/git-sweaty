@@ -15848,6 +15848,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19771763068",
       "year": 2026
+    },
+    {
+      "date": "2026-08-17",
+      "hour": 17,
+      "name": "Aclimataci\u00f3n \ud83d\ude09",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19783846966",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29979,11 +29988,20 @@
           "distance": 6110.0,
           "elevation_gain": 275.0,
           "moving_time": 2534.0
+        },
+        "2026-08-17": {
+          "activity_ids": [
+            "19783846966"
+          ],
+          "count": 1,
+          "distance": 14253.2,
+          "elevation_gain": 550.0,
+          "moving_time": 5750.0
         }
       }
     }
   },
-  "generated_at": "2026-08-17T15:17:21.931107+00:00",
+  "generated_at": "2026-08-18T15:22:35.105069+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
