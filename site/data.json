@@ -15857,6 +15857,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19783846966",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 8,
+      "name": "A Turb\u00f3n con las chicas \ud83d\udcaa\ud83c\udffb",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19797186278",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28417,6 +28426,15 @@
           "distance": 13922.1,
           "elevation_gain": 453.0,
           "moving_time": 12163.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19797186278"
+          ],
+          "count": 1,
+          "distance": 17239.0,
+          "elevation_gain": 1600.0,
+          "moving_time": 21526.0
         }
       },
       "Ride": {
@@ -30001,7 +30019,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:22:35.105069+00:00",
+  "generated_at": "2026-08-19T15:22:29.003847+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
