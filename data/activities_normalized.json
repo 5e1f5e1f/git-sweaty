@@ -22910,12 +22910,38 @@
     "distance": 17239.0,
     "elevation_gain": 1600.0,
     "id": "19797186278",
-    "moving_time": 21526.0,
+    "moving_time": 32916.0,
     "name": "A Turb\u00f3n con las chicas \ud83d\udcaa\ud83c\udffb",
-    "raw_activity_type": "Hike",
-    "raw_type": "Hike",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
     "start_date_local": "2026-08-18T08:15:54Z",
-    "type": "Hike",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 8608.0,
+    "elevation_gain": 152.0,
+    "id": "19814014452",
+    "moving_time": 3000.0,
+    "name": "50min de asfalto z1/z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T20:46:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 16975.0,
+    "elevation_gain": 1504.0,
+    "id": "19824796026",
+    "moving_time": 32395.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-20T08:08:14Z",
+    "type": "TrailRun",
     "year": 2026
   }
 ]

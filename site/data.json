@@ -15862,9 +15862,27 @@
       "date": "2026-08-18",
       "hour": 8,
       "name": "A Turb\u00f3n con las chicas \ud83d\udcaa\ud83c\udffb",
-      "subtype": "Hike",
-      "type": "Hike",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
       "url": "https://www.strava.com/activities/19797186278",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 20,
+      "name": "50min de asfalto z1/z2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19814014452",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 8,
+      "name": "Morning Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19824796026",
       "year": 2026
     }
   ],
@@ -28426,15 +28444,6 @@
           "distance": 13922.1,
           "elevation_gain": 453.0,
           "moving_time": 12163.0
-        },
-        "2026-08-18": {
-          "activity_ids": [
-            "19797186278"
-          ],
-          "count": 1,
-          "distance": 17239.0,
-          "elevation_gain": 1600.0,
-          "moving_time": 21526.0
         }
       },
       "Ride": {
@@ -29396,6 +29405,15 @@
           "distance": 9024.5,
           "elevation_gain": 6.0,
           "moving_time": 3115.0
+        },
+        "2026-08-19": {
+          "activity_ids": [
+            "19814014452"
+          ],
+          "count": 1,
+          "distance": 8608.0,
+          "elevation_gain": 152.0,
+          "moving_time": 3000.0
         }
       },
       "TrailRun": {
@@ -30015,11 +30033,29 @@
           "distance": 14253.2,
           "elevation_gain": 550.0,
           "moving_time": 5750.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19797186278"
+          ],
+          "count": 1,
+          "distance": 17239.0,
+          "elevation_gain": 1600.0,
+          "moving_time": 32916.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "19824796026"
+          ],
+          "count": 1,
+          "distance": 16975.0,
+          "elevation_gain": 1504.0,
+          "moving_time": 32395.0
         }
       }
     }
   },
-  "generated_at": "2026-08-19T15:22:29.003847+00:00",
+  "generated_at": "2026-08-20T15:25:27.992235+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
