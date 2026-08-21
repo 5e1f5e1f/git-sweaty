@@ -15879,7 +15879,7 @@
     {
       "date": "2026-08-20",
       "hour": 8,
-      "name": "Morning Trail Run",
+      "name": "Reconocimiento de la subida directa al Turb\u00f3n",
       "subtype": "TrailRun",
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/19824796026",
@@ -30055,7 +30055,7 @@
       }
     }
   },
-  "generated_at": "2026-08-20T15:25:27.992235+00:00",
+  "generated_at": "2026-08-21T15:24:36.429282+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
