@@ -22943,5 +22943,31 @@
     "start_date_local": "2026-08-20T08:08:14Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 10025.0,
+    "elevation_gain": 182.0,
+    "id": "19847033168",
+    "moving_time": 3225.0,
+    "name": "10'z1 +30'z3 +14'z1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T10:09:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 7387.6,
+    "elevation_gain": 243.0,
+    "id": "19852176252",
+    "moving_time": 6538.0,
+    "name": "Excursi\u00f3n de tarde",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-22T14:07:39Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
