@@ -15897,10 +15897,19 @@
     {
       "date": "2026-08-22",
       "hour": 14,
-      "name": "Excursi\u00f3n de tarde",
+      "name": "Paseo para recoger moras",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/19852176252",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 10,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19864075374",
       "year": 2026
     }
   ],
@@ -28471,6 +28480,15 @@
           "distance": 7387.6,
           "elevation_gain": 243.0,
           "moving_time": 6538.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19864075374"
+          ],
+          "count": 1,
+          "distance": 9612.4,
+          "elevation_gain": 402.0,
+          "moving_time": 9967.0
         }
       },
       "Ride": {
@@ -30091,7 +30109,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:12:30.758431+00:00",
+  "generated_at": "2026-08-23T15:13:42.460284+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

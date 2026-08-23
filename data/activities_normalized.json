@@ -22963,10 +22963,23 @@
     "elevation_gain": 243.0,
     "id": "19852176252",
     "moving_time": 6538.0,
-    "name": "Excursi\u00f3n de tarde",
+    "name": "Paseo para recoger moras",
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2026-08-22T14:07:39Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 9612.4,
+    "elevation_gain": 402.0,
+    "id": "19864075374",
+    "moving_time": 9967.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-23T10:02:35Z",
     "type": "Hike",
     "year": 2026
   }
