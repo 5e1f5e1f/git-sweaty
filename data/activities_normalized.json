@@ -22982,5 +22982,31 @@
     "start_date_local": "2026-08-23T10:02:35Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 17013.9,
+    "elevation_gain": 697.0,
+    "id": "19898077298",
+    "moving_time": 7764.0,
+    "name": "Evening Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-25T18:38:53Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 33737.5,
+    "elevation_gain": 1786.0,
+    "id": "19909592384",
+    "moving_time": 28188.0,
+    "name": "Long de relax y desconect \u263a\ufe0f",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-26T09:17:24Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
