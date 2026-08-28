@@ -22975,12 +22975,12 @@
     "distance": 9612.4,
     "elevation_gain": 402.0,
     "id": "19864075374",
-    "moving_time": 9967.0,
-    "name": "Morning Hike",
-    "raw_activity_type": "Hike",
-    "raw_type": "Hike",
+    "moving_time": 8079.0,
+    "name": "Suave con las chicas",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
     "start_date_local": "2026-08-23T10:02:35Z",
-    "type": "Hike",
+    "type": "TrailRun",
     "year": 2026
   },
   {
@@ -23020,6 +23020,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-08-27T19:59:10Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 16914.5,
+    "elevation_gain": 1061.0,
+    "id": "19937369133",
+    "moving_time": 17086.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-28T10:35:26Z",
+    "type": "Hike",
     "year": 2026
   }
 ]
