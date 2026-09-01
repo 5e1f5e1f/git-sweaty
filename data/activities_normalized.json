@@ -23047,5 +23047,31 @@
     "start_date_local": "2026-08-30T08:06:55Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 7939.8,
+    "elevation_gain": 944.0,
+    "id": "19981471674",
+    "moving_time": 8597.0,
+    "name": "Subida a refugio de Turb\u00f3n para pernoctar",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-31T17:35:30Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 9354.8,
+    "elevation_gain": 106.0,
+    "id": "19989839386",
+    "moving_time": 9069.0,
+    "name": "De refugio a casa",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-01T11:27:48Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
