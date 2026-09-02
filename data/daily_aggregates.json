@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:04:21.773501+00:00",
+  "generated_at": "2026-09-02T18:16:03.634438+00:00",
   "years": {
     "2013": {
       "Ride": {
@@ -13582,6 +13582,15 @@
           "distance": 8588.6,
           "elevation_gain": 152.0,
           "moving_time": 3020.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19996425075"
+          ],
+          "count": 1,
+          "distance": 6553.4,
+          "elevation_gain": 94.0,
+          "moving_time": 1969.0
         }
       },
       "TrailRun": {
@@ -14255,6 +14264,15 @@
           "distance": 17649.0,
           "elevation_gain": 1544.0,
           "moving_time": 17745.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20005292754"
+          ],
+          "count": 1,
+          "distance": 18098.0,
+          "elevation_gain": 885.0,
+          "moving_time": 15793.0
         }
       }
     }

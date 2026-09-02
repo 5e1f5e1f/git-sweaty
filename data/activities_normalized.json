@@ -23073,5 +23073,31 @@
     "start_date_local": "2026-09-01T11:27:48Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 6553.4,
+    "elevation_gain": 94.0,
+    "id": "19996425075",
+    "moving_time": 1969.0,
+    "name": "Carrera al anochecer",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-01T20:26:41Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 18098.0,
+    "elevation_gain": 885.0,
+    "id": "20005292754",
+    "moving_time": 15793.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-09-02T08:34:07Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
