@@ -23171,10 +23171,36 @@
     "elevation_gain": 19.0,
     "id": "20130738509",
     "moving_time": 3031.0,
-    "name": "Afternoon Run",
+    "name": "Tomando el sol z1/z2",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-09-11T15:07:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 253.0,
+    "elevation_gain": 0.0,
+    "id": "20139115473",
+    "moving_time": 75.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T09:29:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 15102.0,
+    "elevation_gain": 23.0,
+    "id": "20139911067",
+    "moving_time": 4278.0,
+    "name": "Series de 1k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-12T09:32:28Z",
     "type": "Run",
     "year": 2026
   }
