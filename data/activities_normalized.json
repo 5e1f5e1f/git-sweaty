@@ -23203,5 +23203,18 @@
     "start_date_local": "2026-09-12T09:32:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 15016.2,
+    "elevation_gain": 19.0,
+    "id": "20154072352",
+    "moving_time": 4403.0,
+    "name": "Suave",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-13T09:36:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
