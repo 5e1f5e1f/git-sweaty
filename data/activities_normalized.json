@@ -23236,10 +23236,23 @@
     "elevation_gain": 23.0,
     "id": "20189472925",
     "moving_time": 3395.0,
-    "name": "Evening Run",
+    "name": "6x600",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-09-15T19:29:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 13030.0,
+    "elevation_gain": 27.0,
+    "id": "20203186885",
+    "moving_time": 4352.0,
+    "name": "z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T18:20:36Z",
     "type": "Run",
     "year": 2026
   }
