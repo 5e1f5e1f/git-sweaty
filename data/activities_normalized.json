@@ -23255,5 +23255,31 @@
     "start_date_local": "2026-09-16T18:20:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 7054.8,
+    "elevation_gain": 21.0,
+    "id": "20218423305",
+    "moving_time": 1719.0,
+    "name": "Pre y post-fuerza",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-17T19:01:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 8052.9,
+    "elevation_gain": 7.0,
+    "id": "20224857911",
+    "moving_time": 2693.0,
+    "name": "z1/z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-18T11:29:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
