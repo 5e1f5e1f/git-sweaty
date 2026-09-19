@@ -16118,6 +16118,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20224857911",
       "year": 2026
+    },
+    {
+      "date": "2026-09-18",
+      "hour": 20,
+      "name": "Con Vera",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20230970938",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 9,
+      "name": "3x2k",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20236749165",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29814,12 +29832,22 @@
         },
         "2026-09-18": {
           "activity_ids": [
-            "20224857911"
+            "20224857911",
+            "20230970938"
+          ],
+          "count": 2,
+          "distance": 14160.0,
+          "elevation_gain": 15.0,
+          "moving_time": 5052.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20236749165"
           ],
           "count": 1,
-          "distance": 8052.9,
-          "elevation_gain": 7.0,
-          "moving_time": 2693.0
+          "distance": 15020.1,
+          "elevation_gain": 21.0,
+          "moving_time": 4289.0
         }
       },
       "TrailRun": {
@@ -30515,7 +30543,7 @@
       }
     }
   },
-  "generated_at": "2026-09-18T17:58:42.428797+00:00",
+  "generated_at": "2026-09-19T17:36:43.837918+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
