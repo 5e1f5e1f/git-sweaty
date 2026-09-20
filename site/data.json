@@ -16136,6 +16136,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20236749165",
       "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 9,
+      "name": "XLVIII Volta a Peu als Barris de Sant Marcel\u00b7l\u00ed i Sant Isidre",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20250069807",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 10,
+      "name": "z1/z2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20250978066",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29848,6 +29866,16 @@
           "distance": 15020.1,
           "elevation_gain": 21.0,
           "moving_time": 4289.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20250069807",
+            "20250978066"
+          ],
+          "count": 2,
+          "distance": 15116.4,
+          "elevation_gain": 36.0,
+          "moving_time": 5072.0
         }
       },
       "TrailRun": {
@@ -30543,7 +30571,7 @@
       }
     }
   },
-  "generated_at": "2026-09-19T17:36:43.837918+00:00",
+  "generated_at": "2026-09-20T17:49:21.829179+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
