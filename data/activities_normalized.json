@@ -23411,5 +23411,44 @@
     "start_date_local": "2026-09-26T08:44:40Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 15131.0,
+    "elevation_gain": 25.0,
+    "id": "20343099824",
+    "moving_time": 3664.0,
+    "name": "15k Noctrurna Valencia 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T22:30:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 2359.0,
+    "elevation_gain": 0.0,
+    "id": "20343099839",
+    "moving_time": 813.0,
+    "name": "Calentamiento",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T21:53:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 11180.0,
+    "elevation_gain": 54.0,
+    "id": "20354125987",
+    "moving_time": 2122.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-27T13:55:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

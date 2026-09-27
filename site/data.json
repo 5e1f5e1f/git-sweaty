@@ -16208,6 +16208,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20332285879",
       "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 22,
+      "name": "15k Noctrurna Valencia 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20343099824",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-26",
+      "hour": 21,
+      "name": "Calentamiento",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20343099839",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-27",
+      "hour": 13,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20354125987",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28978,6 +29005,15 @@
           "distance": 24879.0,
           "elevation_gain": 33.0,
           "moving_time": 4289.0
+        },
+        "2026-09-27": {
+          "activity_ids": [
+            "20354125987"
+          ],
+          "count": 1,
+          "distance": 11180.0,
+          "elevation_gain": 54.0,
+          "moving_time": 2122.0
         }
       },
       "Run": {
@@ -29961,12 +29997,14 @@
         "2026-09-26": {
           "activity_ids": [
             "20332114248",
-            "20332285879"
+            "20332285879",
+            "20343099824",
+            "20343099839"
           ],
-          "count": 2,
-          "distance": 5482.0,
-          "elevation_gain": 2.3,
-          "moving_time": 1501.0
+          "count": 4,
+          "distance": 22972.0,
+          "elevation_gain": 27.3,
+          "moving_time": 5978.0
         }
       },
       "TrailRun": {
@@ -30671,7 +30709,7 @@
       }
     }
   },
-  "generated_at": "2026-09-26T18:11:13.881226+00:00",
+  "generated_at": "2026-09-27T18:47:42.919282+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
