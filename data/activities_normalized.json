@@ -23515,5 +23515,31 @@
     "start_date_local": "2026-10-03T10:31:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 5050.0,
+    "elevation_gain": 4.0,
+    "id": "20442655798",
+    "moving_time": 1670.0,
+    "name": "XVI Volta a Peu de les Falles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T09:05:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 12103.2,
+    "elevation_gain": 12.0,
+    "id": "20448393584",
+    "moving_time": 4035.0,
+    "name": "Round 2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-04T14:21:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
