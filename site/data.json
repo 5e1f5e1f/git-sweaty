@@ -16316,6 +16316,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20471351074",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 18,
+      "name": "Carrera de monta\u00f1a vespertina",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/20492566825",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30859,11 +30868,20 @@
           "distance": 14252.0,
           "elevation_gain": 554.0,
           "moving_time": 5584.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20492566825"
+          ],
+          "count": 1,
+          "distance": 16017.0,
+          "elevation_gain": 600.0,
+          "moving_time": 6229.0
         }
       }
     }
   },
-  "generated_at": "2026-10-06T19:55:25.994099+00:00",
+  "generated_at": "2026-10-07T20:21:05.024820+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
