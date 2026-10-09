@@ -23580,5 +23580,31 @@
     "start_date_local": "2026-10-07T18:10:13Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 741.0,
+    "elevation_gain": 9.0,
+    "id": "20512462324",
+    "moving_time": 249.0,
+    "name": "Morning Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-10-09T08:37:12Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 11076.0,
+    "elevation_gain": 517.0,
+    "id": "20512462362",
+    "moving_time": 3934.0,
+    "name": "XV VOLTA AL TERME DE GILET 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-10-09T09:01:19Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
