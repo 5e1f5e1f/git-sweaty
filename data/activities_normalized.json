@@ -23619,5 +23619,18 @@
     "start_date_local": "2026-10-10T09:24:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 12028.2,
+    "elevation_gain": 9.0,
+    "id": "20543130183",
+    "moving_time": 4109.0,
+    "name": "z1/z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T15:28:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
