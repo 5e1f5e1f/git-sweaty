@@ -16388,6 +16388,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/20585891234",
       "year": 2026
+    },
+    {
+      "date": "2026-10-16",
+      "hour": 14,
+      "name": "z1/z2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20608815565",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30258,6 +30267,15 @@
           "distance": 17012.0,
           "elevation_gain": 104.0,
           "moving_time": 4816.0
+        },
+        "2026-10-16": {
+          "activity_ids": [
+            "20608815565"
+          ],
+          "count": 1,
+          "distance": 10056.6,
+          "elevation_gain": 5.0,
+          "moving_time": 3477.0
         }
       },
       "TrailRun": {
@@ -30999,7 +31017,7 @@
       }
     }
   },
-  "generated_at": "2026-10-15T18:47:23.097538+00:00",
+  "generated_at": "2026-10-16T18:32:31.687632+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
