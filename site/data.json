@@ -16397,6 +16397,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20608815565",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 9,
+      "name": "Alegr\u00eda del s\u00e1bado",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20618289244",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30276,6 +30285,15 @@
           "distance": 10056.6,
           "elevation_gain": 5.0,
           "moving_time": 3477.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20618289244"
+          ],
+          "count": 1,
+          "distance": 20417.8,
+          "elevation_gain": 24.0,
+          "moving_time": 5704.0
         }
       },
       "TrailRun": {
@@ -31017,7 +31035,7 @@
       }
     }
   },
-  "generated_at": "2026-10-16T18:32:31.687632+00:00",
+  "generated_at": "2026-10-17T17:39:43.055416+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
