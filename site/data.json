@@ -16406,6 +16406,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20618289244",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 9,
+      "name": "Cerramos la semana \ud83d\ude0a",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20631411903",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30294,6 +30303,15 @@
           "distance": 20417.8,
           "elevation_gain": 24.0,
           "moving_time": 5704.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20631411903"
+          ],
+          "count": 1,
+          "distance": 18510.7,
+          "elevation_gain": 17.0,
+          "moving_time": 5840.0
         }
       },
       "TrailRun": {
@@ -31035,7 +31053,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:39:43.055416+00:00",
+  "generated_at": "2026-10-18T17:41:57.530068+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
