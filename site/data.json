@@ -16415,6 +16415,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20631411903",
       "year": 2026
+    },
+    {
+      "date": "2026-10-19",
+      "hour": 19,
+      "name": "Bicicleta al anochecer",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20650695542",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29221,6 +29230,15 @@
           "distance": 22005.0,
           "elevation_gain": 47.0,
           "moving_time": 3600.0
+        },
+        "2026-10-19": {
+          "activity_ids": [
+            "20650695542"
+          ],
+          "count": 1,
+          "distance": 14345.0,
+          "elevation_gain": 12.0,
+          "moving_time": 2404.0
         }
       },
       "Run": {
@@ -31053,7 +31071,7 @@
       }
     }
   },
-  "generated_at": "2026-10-18T17:41:57.530068+00:00",
+  "generated_at": "2026-10-19T20:18:22.056612+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
