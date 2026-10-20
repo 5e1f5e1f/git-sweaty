@@ -16424,6 +16424,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20650695542",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 18,
+      "name": "Carrera de noche",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20664595486",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30330,6 +30339,15 @@
           "distance": 18510.7,
           "elevation_gain": 17.0,
           "moving_time": 5840.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20664595486"
+          ],
+          "count": 1,
+          "distance": 15015.0,
+          "elevation_gain": 19.0,
+          "moving_time": 4223.0
         }
       },
       "TrailRun": {
@@ -31071,7 +31089,7 @@
       }
     }
   },
-  "generated_at": "2026-10-19T20:18:22.056612+00:00",
+  "generated_at": "2026-10-20T18:50:23.655279+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

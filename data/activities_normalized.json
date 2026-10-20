@@ -23723,5 +23723,18 @@
     "start_date_local": "2026-10-19T19:24:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 15015.0,
+    "elevation_gain": 19.0,
+    "id": "20664595486",
+    "moving_time": 4223.0,
+    "name": "Carrera de noche",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-20T18:40:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
