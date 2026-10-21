@@ -23736,5 +23736,18 @@
     "start_date_local": "2026-10-20T18:40:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 16205.0,
+    "elevation_gain": 553.0,
+    "id": "20678623454",
+    "moving_time": 6719.0,
+    "name": "Carrera de monta\u00f1a vespertina",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-10-21T18:21:29Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
