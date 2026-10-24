@@ -16451,6 +16451,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20703716221",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 9,
+      "name": "Activaci\u00f3n pre-MMarat\u00f3n con JBL x Foroatletismo",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20709107260",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30375,6 +30384,15 @@
           "distance": 6022.0,
           "elevation_gain": 2.0,
           "moving_time": 2116.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20709107260"
+          ],
+          "count": 1,
+          "distance": 6070.0,
+          "elevation_gain": 6.0,
+          "moving_time": 2213.0
         }
       },
       "TrailRun": {
@@ -31125,7 +31143,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T18:48:45.881475+00:00",
+  "generated_at": "2026-10-24T17:44:12.256690+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
