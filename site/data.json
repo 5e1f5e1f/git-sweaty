@@ -16460,6 +16460,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20709107260",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 7,
+      "name": "Calentamiento",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20721220090",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 8,
+      "name": "Probando el ritmo marat\u00f3n y nutrici\u00f3n",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20721840720",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 11,
+      "name": "Un poco m\u00e1s \ud83d\ude36",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20723402382",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30393,6 +30420,17 @@
           "distance": 6070.0,
           "elevation_gain": 6.0,
           "moving_time": 2213.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20721220090",
+            "20721840720",
+            "20723402382"
+          ],
+          "count": 3,
+          "distance": 24714.6,
+          "elevation_gain": 28.0,
+          "moving_time": 6696.0
         }
       },
       "TrailRun": {
@@ -31143,7 +31181,7 @@
       }
     }
   },
-  "generated_at": "2026-10-24T17:44:12.256690+00:00",
+  "generated_at": "2026-10-25T18:00:15.416921+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

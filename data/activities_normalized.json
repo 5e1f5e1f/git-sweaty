@@ -23775,5 +23775,44 @@
     "start_date_local": "2026-10-24T09:44:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 4481.6,
+    "elevation_gain": 8.0,
+    "id": "20721220090",
+    "moving_time": 1400.0,
+    "name": "Calentamiento",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T07:56:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 16198.0,
+    "elevation_gain": 13.0,
+    "id": "20721840720",
+    "moving_time": 3998.0,
+    "name": "Probando el ritmo marat\u00f3n y nutrici\u00f3n",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T08:54:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 4035.0,
+    "elevation_gain": 7.0,
+    "id": "20723402382",
+    "moving_time": 1298.0,
+    "name": "Un poco m\u00e1s \ud83d\ude36",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T11:20:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
