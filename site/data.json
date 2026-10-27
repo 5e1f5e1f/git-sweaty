@@ -16487,6 +16487,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20723402382",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 20,
+      "name": "z1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20742424531",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-27",
+      "hour": 8,
+      "name": "De momento paramos aqu\u00ed",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20751706124",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29302,6 +29320,15 @@
           "distance": 14345.0,
           "elevation_gain": 12.0,
           "moving_time": 2404.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20751706124"
+          ],
+          "count": 1,
+          "distance": 42336.0,
+          "elevation_gain": 177.0,
+          "moving_time": 6263.0
         }
       },
       "Run": {
@@ -30431,6 +30458,15 @@
           "distance": 24714.6,
           "elevation_gain": 28.0,
           "moving_time": 6696.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20742424531"
+          ],
+          "count": 1,
+          "distance": 10055.5,
+          "elevation_gain": 4.0,
+          "moving_time": 3571.0
         }
       },
       "TrailRun": {
@@ -31181,7 +31217,7 @@
       }
     }
   },
-  "generated_at": "2026-10-26T20:14:13.985178+00:00",
+  "generated_at": "2026-10-27T19:45:58.916146+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
