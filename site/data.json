@@ -16514,6 +16514,15 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/20833215634",
       "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 19,
+      "name": "Arranquem suau \ud83d\ude06",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20860215497",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30485,6 +30494,15 @@
           "distance": 10055.5,
           "elevation_gain": 4.0,
           "moving_time": 3571.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20860215497"
+          ],
+          "count": 1,
+          "distance": 2202.0,
+          "elevation_gain": 14.0,
+          "moving_time": 810.0
         }
       },
       "TrailRun": {
@@ -31235,7 +31253,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T20:43:27.166930+00:00",
+  "generated_at": "2026-11-04T21:00:02.949413+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

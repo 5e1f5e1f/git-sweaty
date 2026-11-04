@@ -23853,5 +23853,18 @@
     "start_date_local": "2026-11-02T17:18:43Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 2202.0,
+    "elevation_gain": 14.0,
+    "id": "20860215497",
+    "moving_time": 810.0,
+    "name": "Arranquem suau \ud83d\ude06",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-04T19:14:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
