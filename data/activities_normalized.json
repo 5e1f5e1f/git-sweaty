@@ -23866,5 +23866,18 @@
     "start_date_local": "2026-11-04T19:14:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 4683.0,
+    "elevation_gain": 0.0,
+    "id": "20872631559",
+    "moving_time": 4212.0,
+    "name": "El\u00edptica",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-11-05T17:20:39Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
