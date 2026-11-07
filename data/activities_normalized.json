@@ -23892,5 +23892,18 @@
     "start_date_local": "2026-11-06T18:10:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 19212.9,
+    "elevation_gain": 31.5,
+    "id": "20892407023",
+    "moving_time": 5562.0,
+    "name": "Alegr\u00eda del s\u00e1bado",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-07T09:40:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
