@@ -23918,5 +23918,31 @@
     "start_date_local": "2026-11-08T09:12:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 3747.2,
+    "elevation_gain": 0.0,
+    "id": "20935723999",
+    "moving_time": 1237.0,
+    "name": "Calentamiento",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T17:57:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 10507.0,
+    "elevation_gain": 17.0,
+    "id": "20936475453",
+    "moving_time": 3232.0,
+    "name": "3x10'",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T18:19:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
