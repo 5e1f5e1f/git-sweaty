@@ -16586,6 +16586,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20950776504",
       "year": 2026
+    },
+    {
+      "date": "2026-11-13",
+      "hour": 19,
+      "name": "5x500",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20975864017",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30621,6 +30630,15 @@
           "distance": 16029.3,
           "elevation_gain": 19.0,
           "moving_time": 5200.0
+        },
+        "2026-11-13": {
+          "activity_ids": [
+            "20975864017"
+          ],
+          "count": 1,
+          "distance": 15027.7,
+          "elevation_gain": 17.0,
+          "moving_time": 5238.0
         }
       },
       "TrailRun": {
@@ -31371,7 +31389,7 @@
       }
     }
   },
-  "generated_at": "2026-11-12T21:39:58.519433+00:00",
+  "generated_at": "2026-11-13T21:06:19.360766+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
