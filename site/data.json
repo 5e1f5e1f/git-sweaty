@@ -16595,6 +16595,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20975864017",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 7,
+      "name": "Long run day",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20994078011",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -30639,6 +30648,15 @@
           "distance": 15027.7,
           "elevation_gain": 17.0,
           "moving_time": 5238.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "20994078011"
+          ],
+          "count": 1,
+          "distance": 26183.0,
+          "elevation_gain": 18.0,
+          "moving_time": 7383.0
         }
       },
       "TrailRun": {
@@ -31389,7 +31407,7 @@
       }
     }
   },
-  "generated_at": "2026-11-14T19:37:55.373552+00:00",
+  "generated_at": "2026-11-15T20:03:11.210060+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

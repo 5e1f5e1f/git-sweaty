@@ -23970,5 +23970,18 @@
     "start_date_local": "2026-11-13T19:27:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 26183.0,
+    "elevation_gain": 18.0,
+    "id": "20994078011",
+    "moving_time": 7383.0,
+    "name": "Long run day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-15T07:56:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
