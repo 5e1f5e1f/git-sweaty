@@ -16613,6 +16613,24 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/21024526802",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 18,
+      "name": "Calentamiento",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21037449045",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 19,
+      "name": "25' z2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21038011199",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29464,6 +29482,15 @@
           "distance": 42336.0,
           "elevation_gain": 177.0,
           "moving_time": 6263.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21037449045"
+          ],
+          "count": 1,
+          "distance": 14071.0,
+          "elevation_gain": 20.0,
+          "moving_time": 2450.0
         }
       },
       "Run": {
@@ -30675,6 +30702,15 @@
           "distance": 26183.0,
           "elevation_gain": 18.0,
           "moving_time": 7383.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21038011199"
+          ],
+          "count": 1,
+          "distance": 4394.0,
+          "elevation_gain": 3.0,
+          "moving_time": 1506.0
         }
       },
       "TrailRun": {
@@ -31425,7 +31461,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T22:44:13.160591+00:00",
+  "generated_at": "2026-11-18T22:26:12.726328+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",
