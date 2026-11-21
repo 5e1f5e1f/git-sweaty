@@ -16649,6 +16649,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/21062511559",
       "year": 2026
+    },
+    {
+      "date": "2026-11-21",
+      "hour": 9,
+      "name": "Algo de bici",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21070008214",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29518,6 +29527,15 @@
           "distance": 14057.0,
           "elevation_gain": 12.0,
           "moving_time": 2352.0
+        },
+        "2026-11-21": {
+          "activity_ids": [
+            "21070008214"
+          ],
+          "count": 1,
+          "distance": 56479.0,
+          "elevation_gain": 213.0,
+          "moving_time": 9124.0
         }
       },
       "Run": {
@@ -31497,7 +31515,7 @@
       }
     }
   },
-  "generated_at": "2026-11-20T22:03:35.333295+00:00",
+  "generated_at": "2026-11-21T20:43:09.799417+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/2320930",
   "repo": "5e1f5e1f/git-sweaty",

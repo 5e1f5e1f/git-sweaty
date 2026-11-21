@@ -24048,5 +24048,18 @@
     "start_date_local": "2026-11-20T19:45:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 56479.0,
+    "elevation_gain": 213.0,
+    "id": "21070008214",
+    "moving_time": 9124.0,
+    "name": "Algo de bici",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-21T09:39:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
