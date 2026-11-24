@@ -24074,5 +24074,18 @@
     "start_date_local": "2026-11-22T19:00:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 23986.0,
+    "elevation_gain": 62.0,
+    "id": "21098644792",
+    "moving_time": 4584.0,
+    "name": "El viaje en busca del cal\u00f3geno",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-23T17:56:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
