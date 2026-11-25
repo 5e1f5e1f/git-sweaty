@@ -24113,5 +24113,18 @@
     "start_date_local": "2026-11-24T19:22:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 16026.0,
+    "elevation_gain": 28.0,
+    "id": "21123193070",
+    "moving_time": 4863.0,
+    "name": "\u0412\u0435\u0447\u0435\u0440\u043d\u0438\u0439 \u0437\u0430\u0431\u0435\u0433",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-25T18:30:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
